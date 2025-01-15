@@ -1,4 +1,4 @@
-# Bardock Game :dart:
+# Bardock Game 🐲
 ¡Bienvenido al clásico juego **Bardock game**, creado con **HTML**, **CSS** y **JavaScript Vanilla**!
 Pon a prueba tus reflejos golpeando a los soldados de Freezer, estos aparecen aleatoriamente antes de que desaparezcan. ¿Estás listo para lograr el puntaje más alto?
 ---
